@@ -1,2 +1,2 @@
 # computational-measure-transport
-A repo for some measure transport codes.
+A repo for some measure transport examples.
